@@ -51,4 +51,6 @@ Optimize inventory and product availability based on demand.
 Analyze seasonal patterns to improve forecasting and sales planning.
 Support executive-level decision-making through data-driven insights.
 
-6. 
+6. Screenshots / Demos 
+https://github.com/vinaymalagi121-star/Classic-Models-Sales-Analysis/blob/main/snapshot1.jpg
+![snapshot1](https://github.com/user-attachments/assets/a8e05d7d-f2d5-4552-b20b-a50a62f80be5)
